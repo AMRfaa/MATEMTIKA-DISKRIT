@@ -1,2 +1,2 @@
-# Matematika_Diskrit
+# Matematika Diskrit
 Folder ini berisi tugas-tugas Matematika Diskrit menggunakan Python.
