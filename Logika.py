@@ -48,14 +48,14 @@ for P in [True, False]:                       # loop ke 1 untuk P
 print("------------------------------")
 
 
-print(">>  TABEL KEBENARAN NEGASI  <<")
+print(">>  TABEL KEBENARAN IMPLIKASI  <<")
 print("------------------------------")
-print("| P\t| Q\t| -P OR Q |")
+print("| P\t| Q\t| ~P OR Q |")
 print("------------------------------")
 
-# menggunakan operator logika 'negasi'
+# menggunakan operator logika 'implikasi'
 for P in [True, False]:                         # loop ke 1 untuk P
     for Q in [True, False]:                     # loop ke 2 untuk Q
-        negasi = not P or Q                     # melakukan operasi Negasi P OR Q
-        print(f"{P}\t{Q}\t{negasi}")            # mencetak hasil
+        Implikasi = not P or Q                  # melakukan operasi ~P OR Q
+        print(f"{P}\t{Q}\t{Implikasi}")         # mencetak hasil
 print("------------------------------")
