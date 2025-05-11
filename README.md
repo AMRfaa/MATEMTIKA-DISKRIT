@@ -1,2 +1,4 @@
-# Matematika Diskrit
-Folder ini berisi tugas-tugas Matematika Diskrit menggunakan Python.
+# 🧮 Matematika Diskrit
+Teknologi Informasi [Semester II]
+
+Repository ini berisi kumpulan Tugas kuliah Matematika Diskrit
